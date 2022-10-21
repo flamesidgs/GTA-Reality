@@ -8,14 +8,22 @@ Kontribusi sangat dihargai. Harap fork repositori ini dan buka pull request untu
 ## Installation
 Ikuti cara di bawah ini untuk menginstallnya
 ```bash
-sampctl package install Lukman350/RRP
+sampctl package install flamesidgs/GTA-Reality
 ```
 
 ## Usage
 Cara Penggunaan:
 Buat database yang disebut gtareality dan cari folder tables dan import file bernama players.sql.
-Selanjutnya anda cukup
+```bash
+sampctl p build
+```
+
+## Testing
+Selanjutnya untuk melakukan testi anda cukup
 ```bash
 sampctl p run
 ```
-Selesai.
+
+### Plugins & Contribution
+- streamer (`v2.7.7`) (https://github.com/samp-incognito/samp-streamer-plugin/releases/tag/v2.7.7)
+- mysql (`R41-4`) (https://github.com/pBlueG/SA-MP-MySQL/releases/tag/R41-4)
