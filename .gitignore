@@ -1,0 +1,11 @@
+# Compiled sources #
+###################
+*.exe
+*.pdb
+
+# Other files #
+###################
+*.atom-build.json
+*.log
+*_log.txt
+server_log.txt
