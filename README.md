@@ -24,6 +24,11 @@ Selanjutnya untuk melakukan testi anda cukup
 sampctl p run
 ```
 
-### Plugins & Contribution
+## Plugins
 - streamer (`v2.7.7`) (https://github.com/samp-incognito/samp-streamer-plugin/releases/tag/v2.7.7)
-- mysql (`R41-4`) (https://github.com/pBlueG/SA-MP-MySQL/releases/tag/R41-4)
+- MySQL (`R41-4`) (https://github.com/pBlueG/SA-MP-MySQL/releases/tag/R41-4)
+
+
+### Contribution
+- wuzi (`Author`) (https://github.com/wuzi/samp-missions)
+- flamesidgs (`Continue Project`) (https://github.com/flamesidgs/GTA-Reality)
